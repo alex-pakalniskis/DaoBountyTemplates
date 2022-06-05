@@ -14,3 +14,4 @@
 * Create GOC for Graph Advocates bounty program
 * Define bounty reward system
     * POAP, NFT, GRT depending on bounty difficulty and reputation 
+    * Levels depending on task difficulty (Tip, Bounty, Grant)
