@@ -4,3 +4,8 @@
 1. Assign a bounty committee member to review your issue
     1. If approved, you can start working on the bounty
     1. If more information is requested before approval, please share the requested information in your issue and tag a bounty committee member for review
+
+
+## TODO
+* Create bounty committee
+* Create GOC for Graph Advocates bounty program
