@@ -5,6 +5,8 @@
     1. If approved, you can start working on the bounty
     1. If more information is requested before approval, please share the requested information in your issue and tag a bounty committee member for review
 
+## Resources
+[Markdown formatting guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## TODO
 * Create bounty committee
