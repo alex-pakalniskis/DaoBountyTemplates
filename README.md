@@ -6,7 +6,8 @@
     1. If more information is requested before approval, please share the requested information in your issue and tag a bounty committee member for review
 
 ## Resources
-[Markdown formatting guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Markdown formatting guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Graph Advocates Code of Conduct](https://github.com/graphadvocates/docs/blob/Main/advocates-program/code-of-conduct.md)
 
 ## TODO
 * Create bounty committee
